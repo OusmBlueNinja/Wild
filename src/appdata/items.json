@@ -1,0 +1,248 @@
+{
+    
+  "0":{
+      "name":"Empty",
+      "damage":0,
+      "rarity":-1,
+      "thowable":false,
+      "potion":false,
+      "effect":{
+        "effected":"null",
+        "effect":"null",
+        "text":""
+        
+      }},  
+  "1":{
+      "name":"Rock",
+      "damage":10,
+      "rarity":1,
+      "thowable":false,
+      "potion":false,
+      "effect":{
+        "effected":"null",
+        "effect":"null",
+        "text":""
+        
+      }},
+
+    "2":{
+      "name":"Stick",
+      "damage":5,
+      "rarity":1,
+      "thowable":false,
+      "potion":false,
+      "effect":{
+        "effected":"null",
+        "amount":null,
+        "text":""
+        
+      }},
+    
+    "3":{
+      "name":"Health Potion",
+      "damage":0,
+      "rarity":2,
+      "thowable":true,
+      "potion":true,
+      "effect":{
+        "effected":"self",
+        "amount": 100,
+        "text":"+10 health"
+        
+      }},
+    "4":{
+      "name":"Snowball",
+      "damage":4,
+      "rarity":1,
+      "thowable":true,
+      "potion":true,
+      "effect":{
+        "effected":"enemy",
+        "amount": -10,
+        "text":"cold damage"
+        
+      }},
+    "5":{
+      "name":"Poison Potion",
+      "rarity":2,
+      "damage":5,
+      "thowable":true,
+      "potion":true,
+      "effect":{
+        "effected":"enemy",
+        "amount": -25,
+        "text":"Poisen Damage"
+        
+      }},
+
+  "6":{
+      "name":"Vampire Sword",
+      "rarity":3,
+      "damage":35,
+      "thowable":false,
+      "potion":true,
+      "effect":{
+        "effected":"self",
+        "amount": 35,
+        "text":"Health Thief"
+        
+      }},
+  "7":{
+      "name":"Witches Brew",
+      "rarity":4,
+      "damage": 5,
+      "thowable":false,
+      "potion":true,
+      "effect":{
+        "effected":"enemy",
+        "amount": -350,
+        "text":"Withering"
+        
+      }},
+  "8":{
+      "name":"Phoenix Wing",
+      "rarity":5,
+      "damage": 500,
+      "thowable":false,
+      "potion":true,
+      "effect":{
+        "effected":"enemy",
+        "amount": -250,
+        "text":"Flame"
+        
+      }},
+  "9":{
+      "name":"Titan Sword",
+      "rarity":5,
+      "damage": 260,
+      "thowable":false,
+      "potion":true,
+      "effect":{
+        "effected":"self",
+        "amount": -100,
+        "text":"Bone Crush"
+        
+      }},
+  "10":{
+      "name":"Long Sword",
+      "rarity":3,
+      "damage": 100,
+      "thowable":false,
+      "potion":false,
+      "effect":{
+        "effected":"null",
+        "amount": null,
+        "text":"null"
+        
+      }},
+  "11":{
+      "name":"Adamantium Spear",
+      "rarity":4,
+      "damage": 250,
+      "thowable":false,
+      "potion":false,
+      "effect":{
+        "effected":"null",
+        "amount": null,
+        "text":"null"
+        
+      }},
+  "12":{
+      "name":"NanoTech Explosive",
+      "rarity":3,
+      "damage": 150,
+      "thowable":false,
+      "potion":true,
+      "effect":{
+        "effected":"self",
+        "amount": 25,
+        "text":"Explosion "
+        
+      }},
+  "13":{
+      "name":"Vibranium Labrys",
+      "rarity":4,
+      "damage": 225,
+      "thowable":false,
+      "potion":false,
+      "effect":{
+        "effected":"null",
+        "amount": null,
+        "text":"null"
+        
+      }},
+  "14":{
+      "name":"Beskar Spear",
+      "rarity":3,
+      "damage": 100,
+      "thowable":false,
+      "potion":false,
+      "effect":{
+        "effected":"null",
+        "amount": null,
+        "text":"null"
+        
+      },
+  "15": {
+    "name": "Lightning Staff",
+    "rarity": 5,
+    "damage": 400,
+    "throwable": false,
+    "potion": false,
+    "effect": {
+      "effected": "null",
+      "amount": null,
+      "text": "Summons lightning bolts"
+    }
+  },
+  "16": {
+    "name": "Acid Flask",
+    "rarity": 4,
+    "damage": 175,
+    "throwable": true,
+    "potion": true,
+    "effect": {
+      "effected": "enemy",
+      "amount": -50,
+      "text": "Acid damage over time"
+    }
+  },
+  "17": {
+    "name": "Shadow Cloak",
+    "rarity": 3,
+    "damage": 0,
+    "throwable": false,
+    "potion": false,
+    "effect": {
+      "effected": "self",
+      "amount": null,
+      "text": "Grants invisibility for a short duration"
+    }
+  },
+  "18": {
+    "name": "Molten Axe",
+    "rarity": 4,
+    "damage": 275,
+    "throwable": false,
+    "potion": false,
+    "effect": {
+      "effected": "null",
+      "amount": null,
+      "text": "Deals fire damage and melts armor"
+    }
+  },
+  "19": {
+    "name": "Frost Bow",
+    "rarity": 3,
+    "damage": 125,
+    "throwable": false,
+    "potion": false,
+    "effect": {
+      "effected": "null",
+      "amount": null,
+      "text": "Chills enemies and slows movement"
+    }
+  }
+}
+  }
+

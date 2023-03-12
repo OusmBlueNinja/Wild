@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "health": 100,
+    "level": 0,
+    "items": {
+        "1": {
+            "item": 1,
+            "health": 9999
+        },
+        "2": {
+            "item": 2,
+            "health": 9999
+        },
+        "3": {
+            "item": 0,
+            "health": 2
+        }
+    }
+}

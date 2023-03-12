@@ -1,0 +1,314 @@
+
+{
+ 	"0": {
+ 		"name": "Boulder",
+ 		"health": "50",
+ 		"attacks": {
+ 			"1": {
+ 				"damage": 5,
+ 				"name": "smash"
+
+ 			},
+ 			"2": {
+ 				"damage": 10,
+ 				"name": "roll"
+ 			}
+
+ 		}
+
+ 	},
+ 	"1": {
+ 		"name": "Monkey",
+ 		"health": "75",
+ 		"attacks": {
+ 			"1": {
+ 				"damage": 10,
+ 				"name": "Bannana Shot"
+
+ 			},
+ 			"2": {
+ 				"damage": 25,
+ 				"name": "Bannana Split (OW)"
+ 			}
+
+ 		}
+
+ 	},
+ 	"2": {
+ 		"name": "Tortise",
+ 		"health": "100",
+ 		"attacks": {
+ 			"1": {
+ 				"damage": 25,
+ 				"name": "Shell Shocker"
+
+ 			},
+ 			"2": {
+ 				"damage": 4,
+ 				"name": "Mud Bath"
+ 			}
+
+ 		}
+
+ 	},
+ 	"3": {
+ 		"name": "Unicorn",
+ 		"health": "200",
+ 		"attacks": {
+ 			"1": {
+ 				"damage": 10,
+ 				"name": "Rainbow Splash"
+
+ 			},
+ 			"2": {
+ 				"damage": 15,
+ 				"name": "Horn Charge"
+ 			}
+
+ 		}
+
+ 	},
+  "4": {
+ 		"name": "Centaur",
+ 		"health": "350",
+ 		"attacks": {
+ 			"1": {
+ 				"damage": 40,
+ 				"name": "Trample"
+
+ 			},
+ 			"2": {
+ 				"damage": 30,
+ 				"name": "Bow"
+ 			}
+
+ 		}
+
+ 	},
+  "5": {
+ 		"name": "Atlas",
+ 		"health": "450",
+ 		"attacks": {
+ 			"1": {
+ 				"damage": 200,
+ 				"name": "smash"
+
+ 			},
+ 			"2": {
+ 				"damage": 655,
+ 				"name": "Bowling Ball"
+ 			}
+
+ 		}
+
+ 	},
+ 	"6": {
+ 		"name": "Titan",
+ 		"health": "600",
+ 		"attacks": {
+ 			"1": {
+ 				"damage": 370,
+ 				"name": "Stomp"
+
+ 			},
+ 			"2": {
+ 				"damage": 150,
+ 				"name": "Slam"
+ 			}
+
+ 		}
+
+ 	},
+  "7": {
+ 		"name": "Zues",
+ 		"health": "750",
+ 		"attacks": {
+ 			"1": {
+ 				"damage": 425,
+ 				"name": "Thunderbolt"
+
+ 			},
+ 			"2": {
+ 				"damage": 250,
+ 				"name": "Thunder-Stab"
+ 			}
+
+ 		}
+
+ 	},
+  "8": {
+ 		"name": "Fish",
+ 		"health": "10",
+ 		"attacks": {
+ 			"1": {
+ 				"damage": 5,
+ 				"name": "Swim"
+
+ 			},
+ 			"2": {
+ 				"damage": 9999,
+ 				"name": "rips you into the water and 1 thousand sharkes kill you"
+ 			}
+
+ 		}
+
+ 	},
+  "9": {
+    "name": "Giant",
+    "health": "825",
+    "attacks": {
+      "1": {
+        "damage": 200,
+        "name": "Crush"
+      },
+      "2": {
+        "damage": 250,
+        "name": "Stomp"
+      }
+    }
+  },
+  "10": {
+ 		"name": "Duolingo Bird",
+ 		"health": "999",
+ 		"attacks": {
+ 			"1": {
+ 				"damage": 999,
+ 				"name": "Kidnap"
+
+ 			},
+ 			"2": {
+ 				"damage": 111,
+ 				"name": "Angry Tweet"
+ 			}
+
+ 		}
+
+ 	},
+  "11": {
+    "name": "Goblin",
+    "health": "500",
+    "attacks": {
+      "1": {
+        "damage": 70,
+        "name": "Stab"
+      },
+      "2": {
+        "damage": 100,
+        "name": "Sneak Attack"
+      }
+    }
+  },
+  "12": {
+    "name": "Orc",
+    "health": "650",
+    "attacks": {
+      "1": {
+        "damage": 100,
+        "name": "Axe Swing"
+      },
+      "2": {
+        "damage": 150,
+        "name": "Headbutt"
+      }
+    }
+  },
+  "13": {
+    "name": "Troll",
+    "health": "800",
+    "attacks": {
+      "1": {
+        "damage": 150,
+        "name": "Club Smash"
+      },
+      "2": {
+        "damage": 200,
+        "name": "Rock Throw"
+      }
+    }
+  },
+  "14": {
+    "name": "Dragon",
+    "health": "1200",
+    "attacks": {
+      "1": {
+        "damage": 300,
+        "name": "Fire Breath"
+      },
+      "2": {
+        "damage": 400,
+        "name": "Claw Swipe"
+      }
+    }
+  },
+  "15": {
+    "name": "Kraken",
+    "health": "1500",
+    "attacks": {
+      "1": {
+        "damage": 450,
+        "name": "Tentacle Whip"
+      },
+      "2": {
+        "damage": 600,
+        "name": "Ink Spray"
+      }
+    }
+  },
+  "16": {
+    "name": "Phoenix",
+    "health": "1800",
+    "attacks": {
+      "1": {
+        "damage": 700,
+        "name": "Flame Burst"
+      },
+      "2": {
+        "damage": 900,
+        "name": "Wing Slash"
+      }
+    }
+  },
+  "17": {
+    "name": "Golem",
+    "health": "2200",
+    "attacks": {
+      "1": {
+        "damage": 1000,
+        "name": "Rock Punch"
+      },
+      "2": {
+        "damage": 1200,
+        "name": "Earthquake"
+      }
+    }
+  },
+  "18": {
+    "name": "Demon",
+    "health": "2800",
+    "attacks": {
+      "1": {
+        "damage": 1500,
+        "name": "Hellfire"
+      },
+      "2": {
+        "damage": 1800,
+        "name": "Dark Blast"
+      }
+    }
+  },
+  "19": {
+    "name": "Chimera",
+    "health": "3500",
+    "attacks": {
+      "1": {
+        "damage": 2000,
+        "name": "Poison Bite"
+      },
+      "2": {
+        "damage": 2500,
+        "name": "Tail Swipe"
+      }
+    }
+  }
+
+}
