@@ -4,7 +4,7 @@ Wild is a text-based adventure game where you go around collecting items after y
 
 ## How to Run the Game
 
-To run the game, 
+
 1. download the game files. 
 2. run the following command to install the `getkey` package:
 
@@ -12,17 +12,15 @@ To run the game,
 pip install getkey
 ```
 
-3. run the game by executing the `main.py` file with Python 3:
-4. 
+3. run the game by executing the `main.py` file with Python3:
+
 ```
 python3 main.py
 ```
 
 ## Controls
 
-- Use the arrow keys to move around the map.
-- Use the up, down, and enter keys to select items from your inventory.
-- Press `Q` to quit the game.
+- Use the up, down, and enter keys to navagate the menues.
 
 For more information on how to play the game, please visit our [Wiki](https://github.com/OusmBlueNinja/Wild/wiki).
 
