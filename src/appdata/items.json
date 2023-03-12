@@ -181,8 +181,8 @@
         "effected":"null",
         "amount": null,
         "text":"null"
-        
-      },
+      }
+  }, 
   "15": {
     "name": "Lightning Staff",
     "rarity": 5,
@@ -244,5 +244,3 @@
     }
   }
 }
-  }
-
